@@ -1,0 +1,15 @@
+{
+  "name": "saintvortex-exchange-server",
+  "version": "1.0.0",
+  "description": "Servidor de intercambio de códigos para SaintVortex VPN",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["vpn", "peer-exchange", "p2p"],
+  "author": "SaintVortex",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
